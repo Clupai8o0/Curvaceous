@@ -7,4 +7,6 @@ Youtube video link: [Build a Curvaceous Homepage](https://youtu.be/IPJVi797Uy0)
 - [Shape Divider](https://www.shapedivider.app/)
 - [Haikei](https://app.haikei.app)
 
-Icon made by Handicon [Flaticons](https://flaticon.com)
+Icon made by Handicon [Flaticons](https://flaticon.com) <br>
+
+Preview at https://clupai8o0.github.io/Curvaceous/
